@@ -1,4 +1,4 @@
-## Prettier
+## Prettier & ES-Lint
 
 ---
 
